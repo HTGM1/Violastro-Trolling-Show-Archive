@@ -19,41 +19,28 @@ if your getting alot of errors, this is very common as i dont use any of LMMS's 
 
 the version of LMMS i recommend for these files is the latest nightly build located at
 https://lmms.io/download
-# credits
+# Credits
 People who worked hard on this mod:
-
-Jurl
-
-Keoiki
-
-Huntertron
-
-Burgerworm
-
-Jecket
-
+Jurl, 
+Keoiki, 
+Huntertron, 
+Burgerworm, 
+Jecket, 
 Chloe
 
-Special Thanks:
 
-AJTweety
 
-Markositta
+**Special Thanks:**
 
-PepperMint
 
-TheFluxWizard
-
-Viralbox
-
-Bri The Cookie Monster
-
-Treejog
-
-Bowtie Boy
-
-Cyratu
-
-LeOww
-
+AJTweety, 
+Markositta, 
+PepperMint, 
+TheFluxWizard, 
+Viralbox, 
+Bri The Cookie Monster, 
+Treejog, 
+Bowtie Boy, 
+Cyratu, 
+LeOww, 
 Scribble Buddy
