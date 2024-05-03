@@ -21,22 +21,39 @@ the version of LMMS i recommend for these files is the latest nightly build loca
 https://lmms.io/download
 # credits
 People who worked hard on this mod:
+
 Jurl
+
 Keoiki
+
 Huntertron
+
 Burgerworm
+
 Jecket
+
 Chloe
 
 Special Thanks:
+
 AJTweety
+
 Markositta
+
 PepperMint
+
 TheFluxWizard
+
 Viralbox
+
 Bri The Cookie Monster
+
 Treejog
+
 Bowtie Boy
+
 Cyratu
+
 LeOww
+
 Scribble Buddy
