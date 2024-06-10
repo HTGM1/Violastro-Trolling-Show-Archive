@@ -5,6 +5,13 @@ this was released due to wanting to preserve the mod's history
 enjoy the museum of Vs Violastro/Violastro's Trolling Show
 
 its been a fun ride
+
+#
+# Base Game Port (V-Slice)
+behind the scenes development on the V-Slice port, dont expect this to be complete for awhile until the mod is closing in on completion (if we make it to the finish that is, who knows lol were doing this for fun in our spare time)
+#
+# Memes
+memes, just a bunch of stuff to give off stress releif lol
 #
 # Violastro Music Project Files-
 Rules and Guidelines:
@@ -19,4 +26,5 @@ if your getting alot of errors, this is very common as i dont use any of LMMS's 
 
 the version of LMMS i recommend for these files is the latest nightly build located at
 https://lmms.io/download
-#
+
+
